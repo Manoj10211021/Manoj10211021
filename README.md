@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoj N</h1>
-<h3 align="center">A passionate fullstack  developer </h3>
+<h3 align="center">A passionate fullstack  developer  and DevOps enthusiast</h3>
 
 - 🌱 I’m currently learning **MERN, java**
 
